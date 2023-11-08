@@ -1,4 +1,4 @@
-namespace Labo3;
+namespace Labo3.Views;
 
 public partial class NotePage : ContentPage
 {
