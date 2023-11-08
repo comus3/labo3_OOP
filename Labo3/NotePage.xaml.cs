@@ -2,7 +2,7 @@ namespace Labo3;
 
 public partial class NotePage : ContentPage
 {
-    string _fileName = Path.Combine(FileSystem.AppDataDirectory, "notes.txt");
+    string _fileName = "C:\\Users\\comep\\OneDrive\\Documents\\ECAM\\2023_2024\\Q1\\Csharp\\labo3_OOP\\notes.txt";
 
     public NotePage()
     {
